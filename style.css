@@ -1,0 +1,16 @@
+.mega-menu-center {
+    display: flex;
+    justify-content: center;
+}
+.mega-nav-center{
+    display: flex;
+    justify-content: center;
+}
+
+.category-responsive {
+    font-size: 18px;
+}
+
+.full-div {
+    border: 2px solid greenyellow;
+}
